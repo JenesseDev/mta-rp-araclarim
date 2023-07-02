@@ -1,0 +1,5 @@
+<meta>
+	<oop>true</oop>
+	<script src="araclarimC.lua" type="client" cache="false"/>
+	<script src="araclarimS.lua" type="server" cache="false"/>	
+</meta>
